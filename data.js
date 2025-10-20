@@ -4,12 +4,12 @@
 
 window.ministryData = {
   "Highschool Ministry Subcommittee": [
-    { name: "Joshua Matheka", position: "Chairperson", phone: "" },
+    { name: "Joshua Matheka", position: "Chairperson", phone: "0704253353 " },
     { name: "Orunge Rose Favour", position: "Vice Chairperson", phone: "0757912461" },
     { name: "Jairus Kiprono", position: "Secretary", phone: "0704624664" },
-    { name: "Flossy Nyakio", position: "Special Member", phone: "" },
-    { name: "Nelly David", position: "Special Member", phone: "" },
-    { name: "Walter", position: "Special Member", phone: "" },
+    { name: "Flossy Nyakio", position: "Special Member", phone: "0743631245" },
+    { name: "Nelly David", position: "Special Member", phone: "0768 418049" },
+    { name: "Walter", position: "Special Member", phone: "0798590297" },
   ],
   "Choir Subcommittee": [
     { name: "Grace Mutheu", position: "Chairperson", phone: "0113096985" },
