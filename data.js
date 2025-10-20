@@ -147,7 +147,7 @@ window.ministryData = {
   { name: "Lydiah Wawira", position: "Secretary", phone: "0740742528" },
   { name: "Hadassah Mulesi", position: "Special Member", phone: "0110522060" },
   { name: "Eunice Wathatha", position: "Special Member", phone: "0114728039" },
-  { name: "Armstrong Muriithi", position: "Special Member", phone: "" },
+  { name: "Armstrong Muriithi", position: "Special Member", phone: "0115453306" },
 ],
 "ANZAFYT Subcommittee": [
   { name: "Basra Chepngeno", position: "Chairperson", phone: "0712858885" },
